@@ -96,5 +96,5 @@ This project is licensed under the [MIT License](./LICENSE).
 ---
 
 <p align="center">
-  <i>Created with ❤️ by <a href="https://github.com/Chromeyc">Chromeyc</a></i>
+  <i>Created with ❤️ by <a href="https://github.com/Chromeyc">smh (Chromeyc)</a> & <a href="https://github.com/oxGorou">oxGorou</a></i>
 </p>
