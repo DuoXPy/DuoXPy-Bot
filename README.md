@@ -10,8 +10,8 @@
   <a href="https://github.com/Chromeyc/DuoXPy/graphs/contributors">
     <img src="https://img.shields.io/github/contributors-anon/Chromeyc/DuoXPy?style=flat-square">
   </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square">
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/license-Custom-lightgrey.svg?style=flat-square">
   </a>
 </p>
 
@@ -77,7 +77,7 @@ python main.py
 Built using:
 
 * 🐍 Python 3.11
-* 🪰 Discord.py 
+* 🪰 Discord.py
 * 📆 MongoDB
 
 ---
@@ -91,7 +91,8 @@ Got questions or ideas? Join us on Discord:
 
 ## 📜 License
 
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [DuoXPy License](./LICENSE).
+**Commercial use is strictly prohibited.**
 
 ---
 
