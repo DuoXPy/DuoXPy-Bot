@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://duoxpy.site">
-    <img src="https://github.com/Chromeyc/DuoXPy/blob/main/images/banner.png?raw=true" alt="DuoXPy Banner" height="160" />
+    <img src="https://github.com/Chromeyc/DuoXPy/blob/main/images/transparent_banner.png?raw=true" alt="DuoXPy Banner" height="160" />
   </a>
 </h1>
 
