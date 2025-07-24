@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<p align="center"><i>The ultimate Duolingo cheat tool to accelerate your progress effortlessly 🚀</i></p>
+<p align="center"><i>The ultimate Duolingo ultilities tool to accelerate your progress effortlessly 🚀</i></p>
 
 <p align="center">
   <a href="https://github.com/Chromeyc/DuoXPy/graphs/contributors">
