@@ -7,9 +7,6 @@
 <p align="center"><i>The ultimate Duolingo cheat tool to accelerate your progress effortlessly 🚀</i></p>
 
 <p align="center">
-  <a href="https://github.com/Chromeyc/DuoXPy/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/Chromeyc/DuoXPy/ci.yml?branch=main&label=CI&style=flat-square">
-  </a>
   <a href="https://github.com/Chromeyc/DuoXPy/graphs/contributors">
     <img src="https://img.shields.io/github/contributors-anon/Chromeyc/DuoXPy?style=flat-square">
   </a>
