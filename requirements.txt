@@ -1,0 +1,7 @@
+asyncio
+aiohttp
+discord.py
+aiofiles
+motor
+python-dotenv
+aiohttp-socks
