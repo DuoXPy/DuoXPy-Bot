@@ -1,14 +1,14 @@
 <h1 align="center">
   <a href="https://duoxpy.site">
-    <img src="https://github.com/Chromeyc/DuoXPy/blob/main/images/transparent_banner.png?raw=true" alt="DuoXPy Banner" height="160" />
+    <img src="https://github.com/DuoXPy/DuoXPy-Bot/blob/main/images/transparent_banner.png?raw=true" alt="DuoXPy Banner" height="160" />
   </a>
 </h1>
 
 <p align="center"><i>The ultimate Duolingo ultilities tool to accelerate your progress effortlessly 🚀</i></p>
 
 <p align="center">
-  <a href="https://github.com/Chromeyc/DuoXPy/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors-anon/Chromeyc/DuoXPy?style=flat-square">
+  <a href="https://github.com/DuoXPy/DuoXPy-Bot/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors-anon/DuoXpy/DuoXPy-Bot?style=flat-square">
   </a>
   <a href="./LICENSE">
     <img src="https://img.shields.io/badge/license-Custom-lightgrey.svg?style=flat-square">
@@ -19,7 +19,7 @@
   <a href="https://discord.gg/kPx28kdwap">
     <img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?style=flat-square&logo=discord">
   </a>
-  <a href="https://github.com/Chromeyc/DuoXPy">
+  <a href="https://github.com/DuoXPy/DuoXPy-Bot">
     <img src="https://img.shields.io/github/stars/DuoXPy/DuoXPy?style=social" alt="GitHub stars">
   </a>
 </p>
