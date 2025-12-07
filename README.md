@@ -28,7 +28,7 @@
 
 ## 🌐 About DuoXPy
 
-**DuoXPy** is a Python-based bot that helps you automate, cheat, and boost your progress in **Duolingo**. Whether you're trying to keep your streak, get streaks, or unlock achievements without the grind, DuoXPy makes it easy.
+**DuoXPy** is a Python-based bot that helps you automate, cheat, and boost your progress in **Duolingo** with over 137+ Features. Whether you're trying to keep your streak, get streaks, or unlock achievements without the grind, DuoXPy makes it easy.
 
 ---
 
